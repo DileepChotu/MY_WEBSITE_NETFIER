@@ -219,7 +219,7 @@ button:hover {
   margin: 20px auto;
   width: 1400%;
   max-width: 400%;
-  transform:  translateY(-170%)
+ transform:  translateY(-120%)
                 translatex(5%)
 }
 
@@ -306,15 +306,12 @@ a {
 }
 
 /*==============================================*/
-
 .profile-photo {
   text-align: center;
   margin-bottom: 20px;
-  transform:  translateX(-230%)
-               translateY(100%);
- 
-   
-
+  transform:  translateX(-195%)
+               translateY(100%)
+  
 }
 
 .profile-photo img {
